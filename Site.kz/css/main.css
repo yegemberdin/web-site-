@@ -1,0 +1,21 @@
+/*----------------------------------------------------
+                 Devster - CSS File
+------------------------------------------------------*/
+
+
+/* Front Page Slider
+------------------------------------------------------*/
+#slides_container{height:315px; position:relative; float:left;}
+.more-button {float:right;}
+.flash-img {text-align:center; display:block; margin:110px auto 0 auto;}
+/* CU3ER Slider */	
+	#slides-cu3er {width:630px; height:314px; float:left; background-image:url(../images/shadow-box.jpg); background-repeat:no-repeat; background-position:bottom;}
+	#slides-text {width:300px; height:265px; float:left; padding-left:30px;}
+	#slides-text h1{width:300px; text-align:left; margin:0px;}
+	#slides-text h3{width:300px; text-align:left; margin-bottom:15px;}
+	#slides-text p{font-size:11px; width:300px; line-height:20px;}					
+
+
+/* Content
+------------------------------------------------------*/
+#content{padding:10px 0px 30px 0px; float:left;}
